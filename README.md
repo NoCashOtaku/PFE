@@ -1,6 +1,3 @@
-# Programs For Everyone
-## That One CAS Project Fed Up With Bad Educational Tools
-
 Welcome to the main project site for PFE, our rather impoverished CAS Project!
 
 
